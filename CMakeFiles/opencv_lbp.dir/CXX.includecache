@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/test.cpp
+stdio.h
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/stdio.h
+opencv2/opencv.hpp
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/opencv2/opencv.hpp
+opencv2/imgproc/imgproc.hpp
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/opencv2/imgproc/imgproc.hpp
+opencv2/legacy/compat.hpp
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/opencv2/legacy/compat.hpp
+opencv2/highgui/highgui.hpp
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/opencv2/highgui/highgui.hpp
+limits
+-
+iostream
+-
+fstream
+-
+sstream
+-
+

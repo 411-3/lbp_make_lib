@@ -1,0 +1,1 @@
+/home/xduser/LiHuan/test/opencv_test/lbp_test/makelib/CMakeFiles/opencv_lbp.dir
